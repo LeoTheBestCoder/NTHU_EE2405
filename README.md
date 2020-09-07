@@ -3,6 +3,6 @@
 
 For details, visit the course website:
 https://www.ee.nthu.edu.tw/ee240500/
- and ask me for username and password if required.
+ and ask me for the username and password if required.
  
 by 謝霖泳
